@@ -15,6 +15,7 @@ namespace gitTest3
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("test");
         }
     }
 }
