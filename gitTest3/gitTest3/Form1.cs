@@ -19,6 +19,8 @@ namespace gitTest3
             Console.WriteLine("test");
             Console.WriteLine("test");
             MessageBox.Show("gweg");
+
+            Label lb = new Label();
         }
     }
 }
