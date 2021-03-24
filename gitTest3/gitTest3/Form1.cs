@@ -16,6 +16,8 @@ namespace gitTest3
         {
             InitializeComponent();
             Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
         }
     }
 }
