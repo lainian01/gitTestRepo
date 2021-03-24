@@ -21,6 +21,7 @@ namespace gitTest3
             MessageBox.Show("gweg");
 
             Label lb = new Label();
+            Panel p = new Panel();
         }
     }
 }
